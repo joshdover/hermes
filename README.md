@@ -18,8 +18,7 @@ for compiling preprocessed HTML, CSS, and JS.
 2. `bundle`
 3. `middleman server`
 4. Make changes in the src directory
-5. `middleman build`
-6. `phonegap run [platform]`
+5. `phonegap run [platform]` - calls `middleman build` for you
 
 ## Using Bower
 
