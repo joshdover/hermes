@@ -6,7 +6,7 @@ require 'slim'
 activate :livereload
 activate :directory_indexes
 
-set :source, 'src'
+set :source,     'src'
 set :js_dir,     'assets/javascripts'
 set :css_dir,    'assets/stylesheets'
 set :images_dir, 'assets/images'
