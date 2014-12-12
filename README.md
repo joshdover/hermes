@@ -1,3 +1,7 @@
+# Don't use this anymore
+
+I don't use middleman anymore and neither should you. Go checkout [gulp](http://gulpjs.com/) or [grunt](http://gruntjs.com/).
+
 Hermes
 ===
 Starter project for phonegap that uses [middleman](http://middlemanapp.com) as a build system
